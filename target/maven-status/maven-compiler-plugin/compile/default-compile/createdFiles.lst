@@ -1,0 +1,5 @@
+com\revature\rms\documentation\swagger\ServiceDefinitionContext.class
+com\revature\rms\documentation\web\ServiceDefinitionController.class
+com\revature\rms\documentation\DocumentationServiceApplication.class
+com\revature\rms\documentation\swagger\ServiceDescriptionUpdater.class
+com\revature\rms\documentation\swagger\SwaggerUIConfiguration.class
